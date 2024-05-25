@@ -1,0 +1,83 @@
+html {
+    background-color: aquamarine;
+}
+header {
+    background-color: aquamarine;
+}
+main {
+    background-color: aquamarine;
+}
+footer {
+    background-color: aquamarine;
+}
+header h1 {
+    text-align: center;
+}
+nav {
+display: flex;
+justify-content: space-around;
+    
+}
+nav a {
+    text-decoration: none;
+    color: black;
+}
+header img {
+   width: 100px;
+   margin-left: 60px;
+   margin-bottom: 30px;
+}
+.crate {
+    width: 100px;
+    margin-left: 140px;
+    
+}
+.crate2 {
+    width: 100px;
+    margin-left: 90px;
+}
+.cookies {
+    width: 200px;
+    height: 200px;
+     margin-left: 30px;
+}
+.marmelad {
+    width: 200px;
+    height: 200px;
+     margin-left: 30px;
+}
+.sladosti {
+    width: 200px;
+    height: 200px;
+     margin-left: 30px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+     margin-left: 30px;
+}
+.marmelad {
+    width:200px ;
+   height: 200px;
+    margin-left: 30px;
+}
+.Drade {
+    width: 200px;
+    height: 200px;
+     margin-left: 30px;
+}
+.confet {
+    width: 200px;
+    height: 200px;
+     margin-left: 30px;
+}
+.zefir {
+    width: 200px;
+    height: 200px;
+     margin-left: 30px;
+}
+.pastil {
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+}
